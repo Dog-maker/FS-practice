@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FS-Demo.iml" filepath="$PROJECT_DIR$/FS-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Index/Index.iml" filepath="$PROJECT_DIR$/Index/Index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-ssm/SpringBoot-ssm.iml" filepath="$PROJECT_DIR$/springboot-ssm/SpringBoot-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjar/myjar.iml" filepath="$PROJECT_DIR$/myjar/myjar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ondex/ondex.iml" filepath="$PROJECT_DIR$/ondex/ondex.iml" />
+    </modules>
+  </component>
+</project>
