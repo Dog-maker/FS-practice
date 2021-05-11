@@ -23,6 +23,10 @@ public class lk1560 {
 //        lk1560 lk1560 = new lk1560();
 //        lk1560.mostVisited(2, new int[]{2,1,2,1,2,1,2,1,2});
         System.out.println(0%2);
+        String str="abc";
+        String str1 = new String("abc");
+        System.out.println(str.hashCode() == str1.hashCode());
+        System.out.println(str == str1);
     }
 
     public List<Integer> mostVisited(int n, int[] rounds) {
